@@ -1,0 +1,25 @@
+{
+    "categories": [
+        "Server",
+        "Service",
+        "Database"
+    ],
+    "statusTypes": [
+        {
+            "id": 1,
+            "name": "Functional",
+            "color": "#79e6b6"
+        },
+        {
+            "id": 2,
+            "name": "Maintenance",
+            "color": "#ffcf4e"
+        },
+        {
+            "id": 3,
+            "name": "Issue",
+            "color": "#e56f70"
+        }
+    ],
+    "maxHistories": 5
+}

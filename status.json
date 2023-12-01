@@ -1,0 +1,65 @@
+{
+    "statusObjects": {
+        "0": {
+            "name": "Webservice 1",
+            "category": "Service",
+            "status": "Functional",
+            "reason": "Working again",
+            "history": [
+                {
+                    "timestamp": 1701354055,
+                    "description": "Status updated to Functional",
+                    "reason": "Working again"
+                },
+                {
+                    "timestamp": 1701353632,
+                    "description": "Status updated to Maintenance"
+                }
+            ]
+        },
+        "2": {
+            "name": "test123",
+            "category": "Server",
+            "status": "Functional",
+            "reason": "-",
+            "history": [
+                {
+                    "timestamp": 1701354109,
+                    "description": "Status added: Functional",
+                    "reason": "-"
+                }
+            ]
+        },
+        "3": {
+            "name": "Test",
+            "category": "Server",
+            "status": "Functional",
+            "reason": "working",
+            "history": [
+                {
+                    "timestamp": 1701356026,
+                    "description": "Status updated to Functional",
+                    "reason": "working again"
+                },
+                {
+                    "timestamp": 1701354777,
+                    "description": "Status added: Maintenance",
+                    "reason": "test"
+                }
+            ]
+        },
+        "4": {
+            "name": "test2",
+            "category": "Server",
+            "status": "Maintenance",
+            "reason": "Maintenance",
+            "history": [
+                {
+                    "timestamp": 1701355378,
+                    "description": "Status added: Maintenance",
+                    "reason": "Maintenance"
+                }
+            ]
+        }
+    }
+}
