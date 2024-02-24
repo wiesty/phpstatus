@@ -1,4 +1,4 @@
-# PHP STATUS
+# PHP STATUS <img src="https://img.shields.io/badge/Maintained%3F-no-red.svg"/>
 
 <img src="assets/img/index.jpg" style="max-width: 450px;">
 <img src="assets/img/dashboard.jpg" style="max-width: 450px;">
